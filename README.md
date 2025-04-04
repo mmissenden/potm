@@ -1,5 +1,5 @@
 # potm
-An app to allow Player-of-the-Match voting.
+An app to allow Player-of-the-Match voting for Rivers FC
 
 ## User Story
 
